@@ -1,0 +1,22 @@
+{
+  "name": "study-typescript",
+  "version": "1.0.0",
+  "description": "typescriptの勉強",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hachiware-kikku/study-typescript.git"
+  },
+  "author": "hachiware-kikku",
+  "bugs": {
+    "url": "https://github.com/hachiware-kikku/study-typescript/issues"
+  },
+  "homepage": "https://github.com/hachiware-kikku/study-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
